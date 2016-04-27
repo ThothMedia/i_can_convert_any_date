@@ -1,0 +1,22 @@
+{
+    "name": "thangman22/i_can_convert_any_date",
+    "type": "vcs",
+    "authors": [
+        {
+            "name": "Warat Wongmaneekit",
+            "email": "canopybanj@gmail.com"
+        },
+        {
+            "name": "Lattapon Yodsuwan",
+            "email": "clozed2u@me.com"
+        }
+    ],
+    "autoload": {
+      "psr-4": {
+        "iCanConvertAnyDate\\": "src"
+      }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
+}
